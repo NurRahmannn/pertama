@@ -1,2 +1,4 @@
-# pertama
+# INI ADALAH PROJEK PERETAMA SAYA
 study
+
+YOUTH
