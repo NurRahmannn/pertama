@@ -6,3 +6,5 @@ halo ini dari git lokal
 	dsdsd
 	sddsdd
 adasdad
+sdfssdf
+aku
